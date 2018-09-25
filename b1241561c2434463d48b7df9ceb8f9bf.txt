@@ -1,0 +1,2 @@
+
+13 13 * * * export DISPLAY=:0 && rhythmbox /home/atakanserin/Desktop/music.mp3 
